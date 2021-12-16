@@ -1,0 +1,2 @@
+# katalonGitRepo
+sample katalon project
